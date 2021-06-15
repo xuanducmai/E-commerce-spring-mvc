@@ -10,6 +10,7 @@ Basic functionally:
     Bills Management
     
   User:
+  
     Register/Sign up
     View products
     Add products to Cart/Buy
