@@ -12,10 +12,13 @@ Basic functionally:
   User:
   
     Register/Sign up
-    View products
+    View products grid/list
     Add products to Cart/Buy
-    Add products to Compare
+    Compare
+    Search
     Contact to Admin
+    
+   
   
   
   
